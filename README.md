@@ -1,2 +1,2 @@
-# ung-dung-banlinhkien-capture
-Ứng dụng BanLinhKien Capture được viết bằng ngôn ngữ Java 
+# Ứng dụng BanLinhKien Capture Android
+*Ứng dụng BanLinhKien Capture Android được viết bằng ngôn ngữ Java*
