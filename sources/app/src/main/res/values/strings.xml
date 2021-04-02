@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">BanLinhKien Capture</string>
+
+    <!-- Navigation Bottom -->
+    <string name="nav_request">DS yêu cầu</string>
+    <string name="nav_done">DS hoàn thành</string>
+    <string name="nav_setting">Tuỳ chỉnh</string>
+
+    <!-- MQTT -->
+    <string name="mqtt_host">tcp://198.13.58.80:1883</string>
+    <string name="mqtt_username">phatvu1294</string>
+    <string name="mqtt_password">122994</string>
+    <string name="mqtt_topic">phatvu1294/blkEditor/listRequest</string>
+
+    <!-- Detail Fragment -->
+    <string name="txt_product_name">Tên sản phẩm</string>
+    <string name="txt_product_code_title">Mã PM: </string>
+    <string name="txt_product_code">Không có thông tin</string>
+    <string name="txt_product_location_title">Vị trí: </string>
+    <string name="txt_product_location">Không có thông tin</string>
+    <string name="btn_back_previous">Quay trở về</string>
+    <string name="btn_capture_product">Chụp ảnh sản phẩm</string>
+    <string name="btn_mark_as_done">Đánh dấu hoàn thành</string>
+    <string name="btn_request_again">Yêu cầu chụp lại</string>
+    <string name="btn_clear_product_request">Xoá sản phẩm yêu cầu</string>
+    <string name="btn_clear_product_done">Xoá sản phẩm hoàn thành</string>
+    <string name="btn_upload_to_drive">Tải lên Drive</string>
+
+    <!-- Single Item -->
+    <string name="img_single_picture">Ảnh sản phẩm</string>
+    <string name="txt_single_title">Tiêu đề</string>
+    <string name="txt_single_date">Ngày tạo</string>
+    <string name="txt_single_size">Kích thước</string>
+    <string name="btn_single_delete">Xóa ảnh</string>
+    <string name="img_single_tick">Đã tải lên</string>
+
+    <!-- Text Item -->
+    <string name="txt_text_title">Tiêu đề</string>
+    <string name="img_text_tick">Đã tải lên</string>
+
+    <!-- Picture Viewer -->
+    <string name="btn_close_viewer">Đóng trình xem</string>
+    <string name="img_picture_viewer">Ảnh cần xem</string>
+
+    <!-- Dialog Message -->
+    <string name="dialog_message_mark_as_done">Bạn có muốn đánh dấu sản phẩm là đã hoàn thành không?</string>
+    <string name="dialog_message_request_again">Bạn có muốn yêu cầu chụp lại sản phẩm này không?</string>
+    <string name="dialog_message_clear_product_request">Bạn có muốn xoá sản phẩm khỏi danh sách yêu cầu không?</string>
+    <string name="dialog_message_clear_product_done">Bạn có muốn xoá sản phẩm khỏi danh sách hoàn thành không?</string>
+    <string name="dialog_message_delete_picture">Bạn có chắc chắn muốn xóa ảnh sản phẩm này không?</string>
+    <string name="dialog_message_upload_to_drive_1">Bạn có muốn tải</string>
+    <string name="dialog_message_upload_to_drive_2">tệp lên Google Drive không?</string>
+    <string name="dialog_positive_yes">Có</string>
+    <string name="dialog_negative_no">Không</string>
+
+    <!-- Progess Dialog -->
+    <string name="progess_dialog_upload_to_drive_title">Đang tải lên Google Drive</string>
+    <string name="progess_dialog_upload_to_drive_message">Vui lòng chờ...</string>
+
+    <!-- Toast Message -->
+    <string name="toast_upload_to_drive_success">Ảnh đã được tải lên Google Drive</string>
+    <string name="toast_upload_to_drive_failure">Không thể tải lên Google Drive</string>
+
+    <!-- Notification -->
+    <string name="channel_name">channel_name</string>
+    <string name="channel_description">channel_description</string>
+    <string name="channel_id">channel_id</string>
+
+    <!-- Shared Preferences-->
+    <string name="key_request_viewed_list">requestViewedList</string>
+
+</resources>
